@@ -2,7 +2,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption:  Files Labs
+  :caption:  NCS-DS Required Labs
   :name: _files_labs
   :hidden:
 
@@ -13,6 +13,12 @@
   files_nfs_export/files_nfs_export
   files_file_blocking/files_file_blocking
   files_multiprotocol/files_multiprotocol
+  
+.. toctree::
+  :maxdepth: 2
+  :caption: Optional Labs
+  :name: _optional_labs
+  :hidden:
 
 .. toctree::
   :maxdepth: 2
